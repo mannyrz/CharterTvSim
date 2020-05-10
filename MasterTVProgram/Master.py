@@ -3,3 +3,8 @@ class Master:
 
 	def getCurrentTime(self):
 		pass
+
+	def getCurrentChannels(self):
+		pass
+
+print("Test")
