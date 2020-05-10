@@ -1,0 +1,8346 @@
+[
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV007603440000",
+	"date" : 1524960000000,
+	"time" : 82680000,
+	"tv" : {
+		"dur" : 10920000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 7200000,
+	"program" : {
+		"title" : "The Avengers",
+		"progType" : "Feature Film",
+		"release" : "2012",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Adventure", "Fantasy", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP026691520006",
+	"date" : 1525046400000,
+	"time" : 7200000,
+	"tv" : {
+		"dur" : 4980000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV", "New" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 12180000,
+	"program" : {
+		"title" : "Trust",
+		"progType" : "Series",
+		"origAirDate" : 1524960000000,
+		"origAudioLang" : "en",
+		"seriesId" : 14040650,
+		"episodeSeason" : 1,
+		"episodeNumber" : 6,
+		"episodeTitle" : "John, Chapter 11",
+		"genres" : [ "Anthology", "Crime", "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP026691520006",
+	"date" : 1525046400000,
+	"time" : 12180000,
+	"tv" : {
+		"dur" : 5040000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 17220000,
+	"program" : {
+		"title" : "Trust",
+		"progType" : "Series",
+		"origAirDate" : 1524960000000,
+		"origAudioLang" : "en",
+		"seriesId" : 14040650,
+		"episodeSeason" : 1,
+		"episodeNumber" : 6,
+		"episodeTitle" : "John, Chapter 11",
+		"genres" : [ "Anthology", "Crime", "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP026691520006",
+	"date" : 1525046400000,
+	"time" : 17220000,
+	"tv" : {
+		"dur" : 5040000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 22260000,
+	"program" : {
+		"title" : "Trust",
+		"progType" : "Series",
+		"origAirDate" : 1524960000000,
+		"origAudioLang" : "en",
+		"seriesId" : 14040650,
+		"episodeSeason" : 1,
+		"episodeNumber" : 6,
+		"episodeTitle" : "John, Chapter 11",
+		"genres" : [ "Anthology", "Crime", "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960079",
+	"date" : 1525046400000,
+	"time" : 22260000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 24060000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1228694400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 10,
+		"episodeTitle" : "The Fight",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH015078360000",
+	"date" : 1525046400000,
+	"time" : 24060000,
+	"tv" : {
+		"dur" : 1140000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 25200000,
+	"program" : {
+		"title" : "FXM Presents",
+		"progType" : "Series",
+		"origAirDate" : 1325376000000,
+		"seriesId" : 8978680,
+		"genres" : [ "Entertainment" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH029314590000",
+	"date" : 1525046400000,
+	"time" : 25200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 27000000,
+	"program" : {
+		"title" : "Bladefest 2018",
+		"progType" : "Paid Programming",
+		"seriesId" : 15320794,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH023752790000",
+	"date" : 1525046400000,
+	"time" : 27000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 28800000,
+	"program" : {
+		"title" : "LifeLock Protection",
+		"progType" : "Paid Programming",
+		"seriesId" : 12639902,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH025998980000",
+	"date" : 1525046400000,
+	"time" : 28800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 30600000,
+	"program" : {
+		"title" : "Cindy Crawford on beauty",
+		"progType" : "Paid Programming",
+		"seriesId" : 13692594,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH026305420000",
+	"date" : 1525046400000,
+	"time" : 30600000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "Amazing Abs",
+		"progType" : "Paid Programming",
+		"seriesId" : 13863761,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH026867850000",
+	"date" : 1525046400000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Tai Cheng Master Dick Van Dyke",
+		"progType" : "Paid Programming",
+		"seriesId" : 14113377,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH017447260000",
+	"date" : 1525046400000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "Never Fear Power Outages",
+		"progType" : "Paid Programming",
+		"seriesId" : 9994096,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH026286070000",
+	"date" : 1525046400000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "5 Makeup Tips 4 You",
+		"progType" : "Paid Programming",
+		"seriesId" : 13852560,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH025853970000",
+	"date" : 1525046400000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "King of the Grill - Wood-Fired Cooking",
+		"progType" : "Paid Programming",
+		"seriesId" : 13629187,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006120050000",
+	"date" : 1525046400000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 50400000,
+	"program" : {
+		"title" : "Blackhat",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Thriller", "Action", "Crime drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004919100000",
+	"date" : 1525046400000,
+	"time" : 50400000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 57600000,
+	"program" : {
+		"title" : "Pompeii",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Adventure", "Action", "Historical drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960080",
+	"date" : 1525046400000,
+	"time" : 57600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 59400000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1229299200000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 11,
+		"episodeTitle" : "Little Minnesota",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960081",
+	"date" : 1525046400000,
+	"time" : 59400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 61200000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1231718400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 12,
+		"episodeTitle" : "Benefits",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960082",
+	"date" : 1525046400000,
+	"time" : 61200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 63000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1232323200000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 13,
+		"episodeTitle" : "Three Days of Snow",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400023",
+	"date" : 1525046400000,
+	"time" : 63000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 64800000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1304899200000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 1,
+		"episodeNumber" : 23,
+		"episodeTitle" : "Victoria's Birthday",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400024",
+	"date" : 1525046400000,
+	"time" : 64800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 66600000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1305504000000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 1,
+		"episodeNumber" : 24,
+		"episodeTitle" : "Peggy's New Beau",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV003707210000",
+	"date" : 1525046400000,
+	"time" : 66600000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525046400000,
+	"stopTime" : 75600000,
+	"program" : {
+		"title" : "Prometheus",
+		"progType" : "Feature Film",
+		"release" : "2012",
+		"origAudioLang" : "en",
+		"genres" : [ "Science fiction", "Horror", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV007603440000",
+	"date" : 1525046400000,
+	"time" : 75600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 0,
+	"program" : {
+		"title" : "The Avengers",
+		"progType" : "Feature Film",
+		"release" : "2012",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Adventure", "Fantasy", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004922400000",
+	"date" : 1525132800000,
+	"time" : 0,
+	"tv" : {
+		"dur" : 12600000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 12600000,
+	"program" : {
+		"title" : "Transformers: Age of Extinction",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Adventure", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV003707210000",
+	"date" : 1525132800000,
+	"time" : 12600000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 21600000,
+	"program" : {
+		"title" : "Prometheus",
+		"progType" : "Feature Film",
+		"release" : "2012",
+		"origAudioLang" : "en",
+		"genres" : [ "Science fiction", "Horror", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP025730020012",
+	"date" : 1525132800000,
+	"time" : 21600000,
+	"tv" : {
+		"dur" : 3660000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 25260000,
+	"program" : {
+		"title" : "Legion",
+		"progType" : "Series",
+		"origAirDate" : 1524528000000,
+		"origAudioLang" : "en",
+		"seriesId" : 13578836,
+		"episodeSeason" : 2,
+		"episodeNumber" : 4,
+		"episodeTitle" : "Chapter 12",
+		"genres" : [ "Adventure", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH027342570000",
+	"date" : 1525132800000,
+	"time" : 25260000,
+	"tv" : {
+		"dur" : 1740000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 27000000,
+	"program" : {
+		"title" : "Airfryer Oven",
+		"progType" : "Paid Programming",
+		"seriesId" : 14332901,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH025168020000",
+	"date" : 1525132800000,
+	"time" : 27000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 28800000,
+	"program" : {
+		"title" : "Grilling with Philips!",
+		"progType" : "Paid Programming",
+		"seriesId" : 13313339,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH023752790000",
+	"date" : 1525132800000,
+	"time" : 28800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 30600000,
+	"program" : {
+		"title" : "LifeLock Protection",
+		"progType" : "Paid Programming",
+		"seriesId" : 12639902,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH026867850000",
+	"date" : 1525132800000,
+	"time" : 30600000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "Tai Cheng Master Dick Van Dyke",
+		"progType" : "Paid Programming",
+		"seriesId" : 14113377,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH025168020000",
+	"date" : 1525132800000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Grilling with Philips!",
+		"progType" : "Paid Programming",
+		"seriesId" : 13313339,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH023583540000",
+	"date" : 1525132800000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "Balding Solutions",
+		"progType" : "Paid Programming",
+		"seriesId" : 12560305,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH017447260000",
+	"date" : 1525132800000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "Never Fear Power Outages",
+		"progType" : "Paid Programming",
+		"seriesId" : 9994096,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525132800000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004919100000",
+	"date" : 1525132800000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 46800000,
+	"program" : {
+		"title" : "Pompeii",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Adventure", "Action", "Historical drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV003755950000",
+	"date" : 1525132800000,
+	"time" : 46800000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 57600000,
+	"program" : {
+		"title" : "The Five-Year Engagement",
+		"progType" : "Feature Film",
+		"release" : "2012",
+		"origAudioLang" : "en",
+		"genres" : [ "Romantic comedy", "Comedy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960083",
+	"date" : 1525132800000,
+	"time" : 57600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 59400000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1233532800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 14,
+		"episodeTitle" : "The Possimpible",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960084",
+	"date" : 1525132800000,
+	"time" : 59400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 61200000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1235952000000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 15,
+		"episodeTitle" : "The Stinsons",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960085",
+	"date" : 1525132800000,
+	"time" : 61200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 63000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1236556800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 16,
+		"episodeTitle" : "Sorry, Bro",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960086",
+	"date" : 1525132800000,
+	"time" : 63000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 64800000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1237161600000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 17,
+		"episodeTitle" : "The Front Porch",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400025",
+	"date" : 1525132800000,
+	"time" : 64800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 66600000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1316995200000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 1,
+		"episodeTitle" : "Goin' Fishin'",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400026",
+	"date" : 1525132800000,
+	"time" : 66600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 68400000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1317600000000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 2,
+		"episodeTitle" : "Dennis' Birthday",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400027",
+	"date" : 1525132800000,
+	"time" : 68400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 70200000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1318204800000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 3,
+		"episodeTitle" : "Mike in the House",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400028",
+	"date" : 1525132800000,
+	"time" : 70200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 72000000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1318809600000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 4,
+		"episodeTitle" : "'57 Chevy Bel Air",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004922400000",
+	"date" : 1525132800000,
+	"time" : 72000000,
+	"tv" : {
+		"dur" : 12600000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525132800000,
+	"stopTime" : 84600000,
+	"program" : {
+		"title" : "Transformers: Age of Extinction",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Adventure", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV005014500000",
+	"date" : 1525132800000,
+	"time" : 84600000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 7200000,
+	"program" : {
+		"title" : "Guardians of the Galaxy",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Science fiction", "Adventure", "Action", "Fantasy", "Comedy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP025730020013",
+	"date" : 1525219200000,
+	"time" : 7200000,
+	"tv" : {
+		"dur" : 3900000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV", "New" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 11100000,
+	"program" : {
+		"title" : "Legion",
+		"progType" : "Series",
+		"origAirDate" : 1525132800000,
+		"origAudioLang" : "en",
+		"seriesId" : 13578836,
+		"episodeSeason" : 2,
+		"episodeNumber" : 5,
+		"episodeTitle" : "Chapter 13",
+		"genres" : [ "Adventure", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP025730020013",
+	"date" : 1525219200000,
+	"time" : 11100000,
+	"tv" : {
+		"dur" : 3960000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 15060000,
+	"program" : {
+		"title" : "Legion",
+		"progType" : "Series",
+		"origAirDate" : 1525132800000,
+		"origAudioLang" : "en",
+		"seriesId" : 13578836,
+		"episodeSeason" : 2,
+		"episodeNumber" : 5,
+		"episodeTitle" : "Chapter 13",
+		"genres" : [ "Adventure", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP026691520006",
+	"date" : 1525219200000,
+	"time" : 15060000,
+	"tv" : {
+		"dur" : 4980000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 20040000,
+	"program" : {
+		"title" : "Trust",
+		"progType" : "Series",
+		"origAirDate" : 1524960000000,
+		"origAudioLang" : "en",
+		"seriesId" : 14040650,
+		"episodeSeason" : 1,
+		"episodeNumber" : 6,
+		"episodeTitle" : "John, Chapter 11",
+		"genres" : [ "Anthology", "Crime", "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP025730020013",
+	"date" : 1525219200000,
+	"time" : 20040000,
+	"tv" : {
+		"dur" : 3900000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 23940000,
+	"program" : {
+		"title" : "Legion",
+		"progType" : "Series",
+		"origAirDate" : 1525132800000,
+		"origAudioLang" : "en",
+		"seriesId" : 13578836,
+		"episodeSeason" : 2,
+		"episodeNumber" : 5,
+		"episodeTitle" : "Chapter 13",
+		"genres" : [ "Adventure", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400028",
+	"date" : 1525219200000,
+	"time" : 23940000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 25740000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1318809600000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 4,
+		"episodeTitle" : "'57 Chevy Bel Air",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH015078360000",
+	"date" : 1525219200000,
+	"time" : 25740000,
+	"tv" : {
+		"dur" : 480000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 26220000,
+	"program" : {
+		"title" : "FXM Presents",
+		"progType" : "Series",
+		"origAirDate" : 1325376000000,
+		"seriesId" : 8978680,
+		"genres" : [ "Entertainment" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525219200000,
+	"time" : 26220000,
+	"tv" : {
+		"dur" : 780000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 27000000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH021533420000",
+	"date" : 1525219200000,
+	"time" : 27000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 28800000,
+	"program" : {
+		"title" : "Try Total Gym for $14.95",
+		"progType" : "Paid Programming",
+		"seriesId" : 11628983,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH027252360000",
+	"date" : 1525219200000,
+	"time" : 28800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 30600000,
+	"program" : {
+		"title" : "1 Minute Miracle Makeup",
+		"progType" : "Paid Programming",
+		"seriesId" : 14288703,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH024618950000",
+	"date" : 1525219200000,
+	"time" : 30600000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "The Hard Truth",
+		"progType" : "Paid Programming",
+		"seriesId" : 13039814,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH027342570000",
+	"date" : 1525219200000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Airfryer Oven",
+		"progType" : "Paid Programming",
+		"seriesId" : 14332901,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH026867850000",
+	"date" : 1525219200000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "Tai Cheng Master Dick Van Dyke",
+		"progType" : "Paid Programming",
+		"seriesId" : 14113377,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525219200000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH023583540000",
+	"date" : 1525219200000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "Balding Solutions",
+		"progType" : "Paid Programming",
+		"seriesId" : 12560305,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV003755950000",
+	"date" : 1525219200000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 50400000,
+	"program" : {
+		"title" : "The Five-Year Engagement",
+		"progType" : "Feature Film",
+		"release" : "2012",
+		"origAudioLang" : "en",
+		"genres" : [ "Romantic comedy", "Comedy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004914560000",
+	"date" : 1525219200000,
+	"time" : 50400000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 61200000,
+	"program" : {
+		"title" : "American Hustle",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960087",
+	"date" : 1525219200000,
+	"time" : 61200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 63000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1237766400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 18,
+		"episodeTitle" : "Old King Clancy",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960088",
+	"date" : 1525219200000,
+	"time" : 63000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 64800000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1238371200000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 19,
+		"episodeTitle" : "Murtaugh",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960089",
+	"date" : 1525219200000,
+	"time" : 64800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 66600000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1239580800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 20,
+		"episodeTitle" : "Mosbius Designs",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960090",
+	"date" : 1525219200000,
+	"time" : 66600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 68400000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1240790400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 21,
+		"episodeTitle" : "The Three Days Rule",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400029",
+	"date" : 1525219200000,
+	"time" : 68400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 70200000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1319414400000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 5,
+		"episodeTitle" : "Victoria Runs Away",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400030",
+	"date" : 1525219200000,
+	"time" : 70200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 72000000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1320019200000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Happy Halloween",
+		"genres" : [ "Holiday", "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400031",
+	"date" : 1525219200000,
+	"time" : 72000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 73800000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1320624000000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 7,
+		"episodeTitle" : "Carl Meets a Lady",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV005014500000",
+	"date" : 1525219200000,
+	"time" : 73800000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525219200000,
+	"stopTime" : 82800000,
+	"program" : {
+		"title" : "Guardians of the Galaxy",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Science fiction", "Adventure", "Action", "Fantasy", "Comedy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006672600000",
+	"date" : 1525219200000,
+	"time" : 82800000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 7200000,
+	"program" : {
+		"title" : "Spectre",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Adventure", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP016169800087",
+	"date" : 1525305600000,
+	"time" : 7200000,
+	"tv" : {
+		"dur" : 3840000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV", "New" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 11040000,
+	"program" : {
+		"title" : "The Americans",
+		"progType" : "Series",
+		"origAirDate" : 1525219200000,
+		"origAudioLang" : "en",
+		"seriesId" : 9474833,
+		"episodeSeason" : 6,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Rififi",
+		"genres" : [ "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP016169800087",
+	"date" : 1525305600000,
+	"time" : 11040000,
+	"tv" : {
+		"dur" : 3840000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 14880000,
+	"program" : {
+		"title" : "The Americans",
+		"progType" : "Series",
+		"origAirDate" : 1525219200000,
+		"origAudioLang" : "en",
+		"seriesId" : 9474833,
+		"episodeSeason" : 6,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Rififi",
+		"genres" : [ "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP016169800086",
+	"date" : 1525305600000,
+	"time" : 14880000,
+	"tv" : {
+		"dur" : 5040000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 19920000,
+	"program" : {
+		"title" : "The Americans",
+		"progType" : "Series",
+		"origAirDate" : 1524614400000,
+		"origAudioLang" : "en",
+		"seriesId" : 9474833,
+		"episodeSeason" : 6,
+		"episodeNumber" : 5,
+		"episodeTitle" : "The Great Patriotic War",
+		"genres" : [ "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP016169800087",
+	"date" : 1525305600000,
+	"time" : 19920000,
+	"tv" : {
+		"dur" : 3840000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 23760000,
+	"program" : {
+		"title" : "The Americans",
+		"progType" : "Series",
+		"origAirDate" : 1525219200000,
+		"origAudioLang" : "en",
+		"seriesId" : 9474833,
+		"episodeSeason" : 6,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Rififi",
+		"genres" : [ "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP017208580024",
+	"date" : 1525305600000,
+	"time" : 23760000,
+	"tv" : {
+		"dur" : 3960000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 27720000,
+	"program" : {
+		"title" : "Fargo",
+		"progType" : "Series",
+		"origAirDate" : 1493164800000,
+		"origAudioLang" : "en",
+		"seriesId" : 9897989,
+		"episodeSeason" : 3,
+		"episodeNumber" : 2,
+		"episodeTitle" : "The Principle of Restricted Choice",
+		"genres" : [ "Crime drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP017208580025",
+	"date" : 1525305600000,
+	"time" : 27720000,
+	"tv" : {
+		"dur" : 3780000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 31500000,
+	"program" : {
+		"title" : "Fargo",
+		"progType" : "Series",
+		"origAirDate" : 1493769600000,
+		"origAudioLang" : "en",
+		"seriesId" : 9897989,
+		"episodeSeason" : 3,
+		"episodeNumber" : 3,
+		"episodeTitle" : "The Law of Non-Contradiction",
+		"genres" : [ "Crime drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH015078360000",
+	"date" : 1525305600000,
+	"time" : 31500000,
+	"tv" : {
+		"dur" : 900000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "FXM Presents",
+		"progType" : "Series",
+		"origAirDate" : 1325376000000,
+		"seriesId" : 8978680,
+		"genres" : [ "Entertainment" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH026305420000",
+	"date" : 1525305600000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Amazing Abs",
+		"progType" : "Paid Programming",
+		"seriesId" : 13863761,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH021469070000",
+	"date" : 1525305600000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "24 Ladders in 1",
+		"progType" : "Paid Programming",
+		"seriesId" : 11602116,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH026796540000",
+	"date" : 1525305600000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "Show More Skin & Love the Way You Look",
+		"progType" : "Paid Programming",
+		"seriesId" : 14081162,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH024978600000",
+	"date" : 1525305600000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "How To Lighten Age Spots",
+		"progType" : "Paid Programming",
+		"seriesId" : 13215531,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004914560000",
+	"date" : 1525305600000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 50400000,
+	"program" : {
+		"title" : "American Hustle",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV007175640000",
+	"date" : 1525305600000,
+	"time" : 50400000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 59400000,
+	"program" : {
+		"title" : "Aloha",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Romantic comedy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960091",
+	"date" : 1525305600000,
+	"time" : 59400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 61200000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1241395200000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 22,
+		"episodeTitle" : "Right Place Right Time",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960092",
+	"date" : 1525305600000,
+	"time" : 61200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 63000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1242000000000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 23,
+		"episodeTitle" : "As Fast as She Can",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960093",
+	"date" : 1525305600000,
+	"time" : 63000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 64800000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1242604800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 4,
+		"episodeNumber" : 24,
+		"episodeTitle" : "The Leap",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV005506520000",
+	"date" : 1525305600000,
+	"time" : 64800000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525305600000,
+	"stopTime" : 75600000,
+	"program" : {
+		"title" : "Gone Girl",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Mystery", "Thriller", "Crime drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006672600000",
+	"date" : 1525305600000,
+	"time" : 75600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 0,
+	"program" : {
+		"title" : "Spectre",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Adventure", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV007793670000",
+	"date" : 1525392000000,
+	"time" : 0,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "Premiere", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 7200000,
+	"program" : {
+		"title" : "Ride Along 2",
+		"progType" : "Feature Film",
+		"release" : "2016",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340021",
+	"date" : 1525392000000,
+	"time" : 7200000,
+	"tv" : {
+		"dur" : 1980000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV", "New" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 9180000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1525305600000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 2,
+		"episodeNumber" : 10,
+		"episodeTitle" : "FUBU",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340020",
+	"date" : 1525392000000,
+	"time" : 9180000,
+	"tv" : {
+		"dur" : 2580000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 11760000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1524700800000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 2,
+		"episodeNumber" : 9,
+		"episodeTitle" : "North of the Border",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340021",
+	"date" : 1525392000000,
+	"time" : 11760000,
+	"tv" : {
+		"dur" : 1980000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 13740000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1525305600000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 2,
+		"episodeNumber" : 10,
+		"episodeTitle" : "FUBU",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340021",
+	"date" : 1525392000000,
+	"time" : 13740000,
+	"tv" : {
+		"dur" : 1980000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 15720000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1525305600000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 2,
+		"episodeNumber" : 10,
+		"episodeTitle" : "FUBU",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV003858650000",
+	"date" : 1525392000000,
+	"time" : 15720000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 26520000,
+	"program" : {
+		"title" : "The Bourne Legacy",
+		"progType" : "Feature Film",
+		"release" : "2012",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525392000000,
+	"time" : 26520000,
+	"tv" : {
+		"dur" : 480000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 27000000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525392000000,
+	"time" : 27000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 28800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525392000000,
+	"time" : 28800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 30600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH024978600000",
+	"date" : 1525392000000,
+	"time" : 30600000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "How To Lighten Age Spots",
+		"progType" : "Paid Programming",
+		"seriesId" : 13215531,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH026867850000",
+	"date" : 1525392000000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Tai Cheng Master Dick Van Dyke",
+		"progType" : "Paid Programming",
+		"seriesId" : 14113377,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH017447260000",
+	"date" : 1525392000000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "Never Fear Power Outages",
+		"progType" : "Paid Programming",
+		"seriesId" : 9994096,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH023752790000",
+	"date" : 1525392000000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "LifeLock Protection",
+		"progType" : "Paid Programming",
+		"seriesId" : 12639902,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525392000000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV003858650000",
+	"date" : 1525392000000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 50400000,
+	"program" : {
+		"title" : "The Bourne Legacy",
+		"progType" : "Feature Film",
+		"release" : "2012",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV005506520000",
+	"date" : 1525392000000,
+	"time" : 50400000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 61200000,
+	"program" : {
+		"title" : "Gone Girl",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Mystery", "Thriller", "Crime drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960094",
+	"date" : 1525392000000,
+	"time" : 61200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 63000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1253491200000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 1,
+		"episodeTitle" : "Definitions",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960095",
+	"date" : 1525392000000,
+	"time" : 63000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 64800000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1254096000000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 2,
+		"episodeTitle" : "Double Date",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960096",
+	"date" : 1525392000000,
+	"time" : 64800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 66600000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1254700800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 3,
+		"episodeTitle" : "Robin 101",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400032",
+	"date" : 1525392000000,
+	"time" : 66600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 68400000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1321228800000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 8,
+		"episodeTitle" : "Peggy Gets a Job",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400033",
+	"date" : 1525392000000,
+	"time" : 68400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 70200000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1321833600000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 9,
+		"episodeTitle" : "Mike Cheats",
+		"genres" : [ "Holiday", "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006106280000",
+	"date" : 1525392000000,
+	"time" : 70200000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525392000000,
+	"stopTime" : 79200000,
+	"program" : {
+		"title" : "Ted 2",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Fantasy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV007793670000",
+	"date" : 1525392000000,
+	"time" : 79200000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 0,
+	"program" : {
+		"title" : "Ride Along 2",
+		"progType" : "Feature Film",
+		"release" : "2016",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004141460000",
+	"date" : 1525478400000,
+	"time" : 0,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 10800000,
+	"program" : {
+		"title" : "The Heat",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP026691520006",
+	"date" : 1525478400000,
+	"time" : 10800000,
+	"tv" : {
+		"dur" : 4980000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 15780000,
+	"program" : {
+		"title" : "Trust",
+		"progType" : "Series",
+		"origAirDate" : 1524960000000,
+		"origAudioLang" : "en",
+		"seriesId" : 14040650,
+		"episodeSeason" : 1,
+		"episodeNumber" : 6,
+		"episodeTitle" : "John, Chapter 11",
+		"genres" : [ "Anthology", "Crime", "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004141460000",
+	"date" : 1525478400000,
+	"time" : 15780000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 26580000,
+	"program" : {
+		"title" : "The Heat",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006046590000",
+	"date" : 1525478400000,
+	"time" : 26580000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 33780000,
+	"program" : {
+		"title" : "Pixels",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action", "Adventure", "Fantasy", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525478400000,
+	"time" : 33780000,
+	"tv" : {
+		"dur" : 420000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525478400000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525478400000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525478400000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960097",
+	"date" : 1525478400000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 41400000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1255305600000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 4,
+		"episodeTitle" : "The Sexless Innkeeper",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960098",
+	"date" : 1525478400000,
+	"time" : 41400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 43200000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1255910400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 5,
+		"episodeTitle" : "Duel Citizenship",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960099",
+	"date" : 1525478400000,
+	"time" : 43200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 45000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1257120000000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Bagpipes",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960100",
+	"date" : 1525478400000,
+	"time" : 45000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 46800000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1257724800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 7,
+		"episodeTitle" : "The Rough Patch",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960102",
+	"date" : 1525478400000,
+	"time" : 46800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 48600000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1258329600000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 8,
+		"episodeTitle" : "The Playbook",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006046590000",
+	"date" : 1525478400000,
+	"time" : 48600000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 55800000,
+	"program" : {
+		"title" : "Pixels",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action", "Adventure", "Fantasy", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006106280000",
+	"date" : 1525478400000,
+	"time" : 55800000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 64800000,
+	"program" : {
+		"title" : "Ted 2",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Fantasy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV003471370000",
+	"date" : 1525478400000,
+	"time" : 64800000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525478400000,
+	"stopTime" : 75600000,
+	"program" : {
+		"title" : "Mission: Impossible -- Ghost Protocol",
+		"progType" : "Feature Film",
+		"release" : "2011",
+		"origAudioLang" : "en",
+		"genres" : [ "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006134340000",
+	"date" : 1525478400000,
+	"time" : 75600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 0,
+	"program" : {
+		"title" : "Mission: Impossible Rogue Nation",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Adventure", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006672600000",
+	"date" : 1525564800000,
+	"time" : 0,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 10800000,
+	"program" : {
+		"title" : "Spectre",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Adventure", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP025730020013",
+	"date" : 1525564800000,
+	"time" : 10800000,
+	"tv" : {
+		"dur" : 3900000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 14700000,
+	"program" : {
+		"title" : "Legion",
+		"progType" : "Series",
+		"origAirDate" : 1525132800000,
+		"origAudioLang" : "en",
+		"seriesId" : 13578836,
+		"episodeSeason" : 2,
+		"episodeNumber" : 5,
+		"episodeTitle" : "Chapter 13",
+		"genres" : [ "Adventure", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP016169800087",
+	"date" : 1525564800000,
+	"time" : 14700000,
+	"tv" : {
+		"dur" : 3840000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 18540000,
+	"program" : {
+		"title" : "The Americans",
+		"progType" : "Series",
+		"origAirDate" : 1525219200000,
+		"origAudioLang" : "en",
+		"seriesId" : 9474833,
+		"episodeSeason" : 6,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Rififi",
+		"genres" : [ "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340021",
+	"date" : 1525564800000,
+	"time" : 18540000,
+	"tv" : {
+		"dur" : 1980000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 20520000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1525305600000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 2,
+		"episodeNumber" : 10,
+		"episodeTitle" : "FUBU",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340001",
+	"date" : 1525564800000,
+	"time" : 20520000,
+	"tv" : {
+		"dur" : 1980000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 22500000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1473120000000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 1,
+		"episodeNumber" : 1,
+		"episodeTitle" : "The Big Bang",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340002",
+	"date" : 1525564800000,
+	"time" : 22500000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 24300000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1473120000000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 1,
+		"episodeNumber" : 2,
+		"episodeTitle" : "Streets on Lock",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340003",
+	"date" : 1525564800000,
+	"time" : 24300000,
+	"tv" : {
+		"dur" : 1980000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 26280000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1473724800000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 1,
+		"episodeNumber" : 3,
+		"episodeTitle" : "Go for Broke",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340004",
+	"date" : 1525564800000,
+	"time" : 26280000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 28080000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1474329600000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 1,
+		"episodeNumber" : 4,
+		"episodeTitle" : "The Streisand Effect",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP017208580026",
+	"date" : 1525564800000,
+	"time" : 28080000,
+	"tv" : {
+		"dur" : 3840000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 31920000,
+	"program" : {
+		"title" : "Fargo",
+		"progType" : "Series",
+		"origAirDate" : 1494374400000,
+		"origAudioLang" : "en",
+		"seriesId" : 9897989,
+		"episodeSeason" : 3,
+		"episodeNumber" : 4,
+		"episodeTitle" : "The Narrow Escape Problem",
+		"genres" : [ "Crime drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH015078360000",
+	"date" : 1525564800000,
+	"time" : 31920000,
+	"tv" : {
+		"dur" : 480000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "FXM Presents",
+		"progType" : "Series",
+		"origAirDate" : 1325376000000,
+		"seriesId" : 8978680,
+		"genres" : [ "Entertainment" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525564800000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH022969270000",
+	"date" : 1525564800000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "Back Pain Solved",
+		"progType" : "Paid Programming",
+		"seriesId" : 12278095,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525564800000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525564800000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960101",
+	"date" : 1525564800000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 41400000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1258934400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 9,
+		"episodeTitle" : "Slapsgiving 2: Revenge of the Slap",
+		"genres" : [ "Holiday", "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960103",
+	"date" : 1525564800000,
+	"time" : 41400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 43200000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1260144000000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 10,
+		"episodeTitle" : "The Window",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960104",
+	"date" : 1525564800000,
+	"time" : 43200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 45000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1260748800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 11,
+		"episodeTitle" : "Last Cigarette Ever",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400034",
+	"date" : 1525564800000,
+	"time" : 45000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 46800000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1323043200000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 10,
+		"episodeTitle" : "Molly Needs a Number",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400035",
+	"date" : 1525564800000,
+	"time" : 46800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 48600000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1323648000000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 11,
+		"episodeTitle" : "Christmas Break",
+		"genres" : [ "Holiday", "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400036",
+	"date" : 1525564800000,
+	"time" : 48600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 50400000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1325462400000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 12,
+		"episodeTitle" : "Carl Has Issues",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400037",
+	"date" : 1525564800000,
+	"time" : 50400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 52200000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1326672000000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 13,
+		"episodeTitle" : "Victoria Can't Drive",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV003471370000",
+	"date" : 1525564800000,
+	"time" : 52200000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 63000000,
+	"program" : {
+		"title" : "Mission: Impossible -- Ghost Protocol",
+		"progType" : "Feature Film",
+		"release" : "2011",
+		"origAudioLang" : "en",
+		"genres" : [ "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006134340000",
+	"date" : 1525564800000,
+	"time" : 63000000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 73800000,
+	"program" : {
+		"title" : "Mission: Impossible Rogue Nation",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Adventure", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006672600000",
+	"date" : 1525564800000,
+	"time" : 73800000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525564800000,
+	"stopTime" : 84600000,
+	"program" : {
+		"title" : "Spectre",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Adventure", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006404810000",
+	"date" : 1525564800000,
+	"time" : 84600000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "Premiere", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 7200000,
+	"program" : {
+		"title" : "Everest",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Adventure", "Drama", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP026691520007",
+	"date" : 1525651200000,
+	"time" : 7200000,
+	"tv" : {
+		"dur" : 4560000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV", "New" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 11760000,
+	"program" : {
+		"title" : "Trust",
+		"progType" : "Series",
+		"origAirDate" : 1525564800000,
+		"origAudioLang" : "en",
+		"seriesId" : 14040650,
+		"episodeSeason" : 1,
+		"episodeNumber" : 7,
+		"episodeTitle" : "Kodachrome",
+		"genres" : [ "Anthology", "Crime", "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP026691520007",
+	"date" : 1525651200000,
+	"time" : 11760000,
+	"tv" : {
+		"dur" : 4500000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 16260000,
+	"program" : {
+		"title" : "Trust",
+		"progType" : "Series",
+		"origAirDate" : 1525564800000,
+		"origAudioLang" : "en",
+		"seriesId" : 14040650,
+		"episodeSeason" : 1,
+		"episodeNumber" : 7,
+		"episodeTitle" : "Kodachrome",
+		"genres" : [ "Anthology", "Crime", "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP025730020013",
+	"date" : 1525651200000,
+	"time" : 16260000,
+	"tv" : {
+		"dur" : 3900000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 20160000,
+	"program" : {
+		"title" : "Legion",
+		"progType" : "Series",
+		"origAirDate" : 1525132800000,
+		"origAudioLang" : "en",
+		"seriesId" : 13578836,
+		"episodeSeason" : 2,
+		"episodeNumber" : 5,
+		"episodeTitle" : "Chapter 13",
+		"genres" : [ "Adventure", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP026691520007",
+	"date" : 1525651200000,
+	"time" : 20160000,
+	"tv" : {
+		"dur" : 4500000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 24660000,
+	"program" : {
+		"title" : "Trust",
+		"progType" : "Series",
+		"origAirDate" : 1525564800000,
+		"origAudioLang" : "en",
+		"seriesId" : 14040650,
+		"episodeSeason" : 1,
+		"episodeNumber" : 7,
+		"episodeTitle" : "Kodachrome",
+		"genres" : [ "Anthology", "Crime", "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH015078360000",
+	"date" : 1525651200000,
+	"time" : 24660000,
+	"tv" : {
+		"dur" : 540000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 25200000,
+	"program" : {
+		"title" : "FXM Presents",
+		"progType" : "Series",
+		"origAirDate" : 1325376000000,
+		"seriesId" : 8978680,
+		"genres" : [ "Entertainment" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH029314590000",
+	"date" : 1525651200000,
+	"time" : 25200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 27000000,
+	"program" : {
+		"title" : "Bladefest 2018",
+		"progType" : "Paid Programming",
+		"seriesId" : 15320794,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH023752790000",
+	"date" : 1525651200000,
+	"time" : 27000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 28800000,
+	"program" : {
+		"title" : "LifeLock Protection",
+		"progType" : "Paid Programming",
+		"seriesId" : 12639902,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525651200000,
+	"time" : 28800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 30600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525651200000,
+	"time" : 30600000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525651200000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH021469070000",
+	"date" : 1525651200000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "24 Ladders in 1",
+		"progType" : "Paid Programming",
+		"seriesId" : 11602116,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525651200000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525651200000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV001941940000",
+	"date" : 1525651200000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 50400000,
+	"program" : {
+		"title" : "Across the Universe",
+		"progType" : "Feature Film",
+		"release" : "2007",
+		"origAudioLang" : "en",
+		"genres" : [ "Musical", "Romance" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006867320000",
+	"date" : 1525651200000,
+	"time" : 50400000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 59400000,
+	"program" : {
+		"title" : "Paper Towns",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy drama", "Adventure", "Mystery" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960105",
+	"date" : 1525651200000,
+	"time" : 59400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 61200000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1263168000000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 12,
+		"episodeTitle" : "Girls vs. Suits",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960106",
+	"date" : 1525651200000,
+	"time" : 61200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 63000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1263772800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 13,
+		"episodeTitle" : "Jenkins",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960107",
+	"date" : 1525651200000,
+	"time" : 63000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 64800000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1264982400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 14,
+		"episodeTitle" : "The Perfect Week",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400038",
+	"date" : 1525651200000,
+	"time" : 64800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 66600000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1328486400000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 14,
+		"episodeTitle" : "Joyce's Choices",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400039",
+	"date" : 1525651200000,
+	"time" : 66600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 68400000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1329091200000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 15,
+		"episodeTitle" : "Valentine's Piggyback",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004914980000",
+	"date" : 1525651200000,
+	"time" : 68400000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525651200000,
+	"stopTime" : 77400000,
+	"program" : {
+		"title" : "Anchorman 2: The Legend Continues",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006404810000",
+	"date" : 1525651200000,
+	"time" : 77400000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 0,
+	"program" : {
+		"title" : "Everest",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Adventure", "Drama", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004173880000",
+	"date" : 1525737600000,
+	"time" : 0,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 10800000,
+	"program" : {
+		"title" : "Star Trek Into Darkness",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Science fiction", "Adventure", "Action", "Fantasy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004047330000",
+	"date" : 1525737600000,
+	"time" : 10800000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 21600000,
+	"program" : {
+		"title" : "Oblivion",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Science fiction", "Adventure", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340021",
+	"date" : 1525737600000,
+	"time" : 21600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 23400000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1525305600000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 2,
+		"episodeNumber" : 10,
+		"episodeTitle" : "FUBU",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH015078360000",
+	"date" : 1525737600000,
+	"time" : 23400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 25200000,
+	"program" : {
+		"title" : "FXM Presents",
+		"progType" : "Series",
+		"origAirDate" : 1325376000000,
+		"seriesId" : 8978680,
+		"genres" : [ "Entertainment" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525737600000,
+	"time" : 25200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 27000000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525737600000,
+	"time" : 27000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 28800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH017447260000",
+	"date" : 1525737600000,
+	"time" : 28800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 30600000,
+	"program" : {
+		"title" : "Never Fear Power Outages",
+		"progType" : "Paid Programming",
+		"seriesId" : 9994096,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525737600000,
+	"time" : 30600000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525737600000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH023752790000",
+	"date" : 1525737600000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "LifeLock Protection",
+		"progType" : "Paid Programming",
+		"seriesId" : 12639902,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH027573780000",
+	"date" : 1525737600000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "Experience the Power of Hazuki Glasses",
+		"progType" : "Paid Programming",
+		"seriesId" : 14449920,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525737600000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004914980000",
+	"date" : 1525737600000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 48600000,
+	"program" : {
+		"title" : "Anchorman 2: The Legend Continues",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004047330000",
+	"date" : 1525737600000,
+	"time" : 48600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 59400000,
+	"program" : {
+		"title" : "Oblivion",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Science fiction", "Adventure", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960108",
+	"date" : 1525737600000,
+	"time" : 59400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 61200000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1265587200000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 15,
+		"episodeTitle" : "Rabbit or Duck",
+		"genres" : [ "Holiday", "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960109",
+	"date" : 1525737600000,
+	"time" : 61200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 63000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1267401600000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 16,
+		"episodeTitle" : "Hooked",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960110",
+	"date" : 1525737600000,
+	"time" : 63000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 64800000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1268006400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 17,
+		"episodeTitle" : "Of Course",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400040",
+	"date" : 1525737600000,
+	"time" : 64800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 66600000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1329696000000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 16,
+		"episodeTitle" : "Surprise",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400041",
+	"date" : 1525737600000,
+	"time" : 66600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 68400000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1330300800000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 17,
+		"episodeTitle" : "Mike Likes Lasagna",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400042",
+	"date" : 1525737600000,
+	"time" : 68400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 70200000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1332115200000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 18,
+		"episodeTitle" : "Peggy Goes to Branson",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400044",
+	"date" : 1525737600000,
+	"time" : 70200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 72000000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1333929600000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 19,
+		"episodeTitle" : "Molly Can't Lie",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400045",
+	"date" : 1525737600000,
+	"time" : 72000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 73800000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1334534400000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 20,
+		"episodeTitle" : "The Dress",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004173880000",
+	"date" : 1525737600000,
+	"time" : 73800000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525737600000,
+	"stopTime" : 84600000,
+	"program" : {
+		"title" : "Star Trek Into Darkness",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Science fiction", "Adventure", "Action", "Fantasy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV005834930000",
+	"date" : 1525737600000,
+	"time" : 84600000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 7200000,
+	"program" : {
+		"title" : "Jurassic World",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Adventure", "Action", "Science fiction", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP025730020014",
+	"date" : 1525824000000,
+	"time" : 7200000,
+	"tv" : {
+		"dur" : 5400000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV", "New" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 12600000,
+	"program" : {
+		"title" : "Legion",
+		"progType" : "Series",
+		"origAirDate" : 1525737600000,
+		"origAudioLang" : "en",
+		"seriesId" : 13578836,
+		"episodeSeason" : 2,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Chapter 14",
+		"genres" : [ "Adventure", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP025730020014",
+	"date" : 1525824000000,
+	"time" : 12600000,
+	"tv" : {
+		"dur" : 3600000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 16200000,
+	"program" : {
+		"title" : "Legion",
+		"progType" : "Series",
+		"origAirDate" : 1525737600000,
+		"origAudioLang" : "en",
+		"seriesId" : 13578836,
+		"episodeSeason" : 2,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Chapter 14",
+		"genres" : [ "Adventure", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP026691520007",
+	"date" : 1525824000000,
+	"time" : 16200000,
+	"tv" : {
+		"dur" : 3600000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 19800000,
+	"program" : {
+		"title" : "Trust",
+		"progType" : "Series",
+		"origAirDate" : 1525564800000,
+		"origAudioLang" : "en",
+		"seriesId" : 14040650,
+		"episodeSeason" : 1,
+		"episodeNumber" : 7,
+		"episodeTitle" : "Kodachrome",
+		"genres" : [ "Anthology", "Crime", "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP025730020014",
+	"date" : 1525824000000,
+	"time" : 19800000,
+	"tv" : {
+		"dur" : 3600000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 23400000,
+	"program" : {
+		"title" : "Legion",
+		"progType" : "Series",
+		"origAirDate" : 1525737600000,
+		"origAudioLang" : "en",
+		"seriesId" : 13578836,
+		"episodeSeason" : 2,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Chapter 14",
+		"genres" : [ "Adventure", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH015078360000",
+	"date" : 1525824000000,
+	"time" : 23400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 25200000,
+	"program" : {
+		"title" : "FXM Presents",
+		"progType" : "Series",
+		"origAirDate" : 1325376000000,
+		"seriesId" : 8978680,
+		"genres" : [ "Entertainment" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525824000000,
+	"time" : 25200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 27000000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525824000000,
+	"time" : 27000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 28800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525824000000,
+	"time" : 28800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 30600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH023752790000",
+	"date" : 1525824000000,
+	"time" : 30600000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "LifeLock Protection",
+		"progType" : "Paid Programming",
+		"seriesId" : 12639902,
+		"genres" : [ "Consumer" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525824000000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525824000000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525824000000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525824000000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV005943270000",
+	"date" : 1525824000000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 50400000,
+	"program" : {
+		"title" : "Selma",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Historical drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV003979160000",
+	"date" : 1525824000000,
+	"time" : 50400000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 57600000,
+	"program" : {
+		"title" : "Gravity",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Science fiction", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960111",
+	"date" : 1525824000000,
+	"time" : 57600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 59400000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1269216000000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 18,
+		"episodeTitle" : "Say Cheese",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960112",
+	"date" : 1525824000000,
+	"time" : 59400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 61200000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1271030400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 19,
+		"episodeTitle" : "Zoo or False",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960113",
+	"date" : 1525824000000,
+	"time" : 61200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 63000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1271635200000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 20,
+		"episodeTitle" : "Home Wreckers",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960114",
+	"date" : 1525824000000,
+	"time" : 63000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 64800000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1272844800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 21,
+		"episodeTitle" : "Twin Beds",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400046",
+	"date" : 1525824000000,
+	"time" : 64800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 66600000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1335744000000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 21,
+		"episodeTitle" : "Bachelor/Bachelorette",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400047",
+	"date" : 1525824000000,
+	"time" : 66600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 68400000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1336348800000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 22,
+		"episodeTitle" : "The Rehearsal",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400043",
+	"date" : 1525824000000,
+	"time" : 68400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 70200000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1336953600000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 2,
+		"episodeNumber" : 23,
+		"episodeTitle" : "The Wedding",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400048",
+	"date" : 1525824000000,
+	"time" : 70200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 72000000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1348444800000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 1,
+		"episodeTitle" : "The Honeymoon Is Over",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400049",
+	"date" : 1525824000000,
+	"time" : 72000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 73800000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1349049600000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 2,
+		"episodeTitle" : "Vince Takes a Bath",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV005834930000",
+	"date" : 1525824000000,
+	"time" : 73800000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525824000000,
+	"stopTime" : 82800000,
+	"program" : {
+		"title" : "Jurassic World",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Adventure", "Action", "Science fiction", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004182350000",
+	"date" : 1525824000000,
+	"time" : 82800000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 7200000,
+	"program" : {
+		"title" : "White House Down",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP016169800088",
+	"date" : 1525910400000,
+	"time" : 7200000,
+	"tv" : {
+		"dur" : 3600000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV", "New" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 10800000,
+	"program" : {
+		"title" : "The Americans",
+		"progType" : "Series",
+		"origAirDate" : 1525824000000,
+		"origAudioLang" : "en",
+		"seriesId" : 9474833,
+		"episodeSeason" : 6,
+		"episodeNumber" : 7,
+		"episodeTitle" : "Harvest",
+		"genres" : [ "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP016169800088",
+	"date" : 1525910400000,
+	"time" : 10800000,
+	"tv" : {
+		"dur" : 3600000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 14400000,
+	"program" : {
+		"title" : "The Americans",
+		"progType" : "Series",
+		"origAirDate" : 1525824000000,
+		"origAudioLang" : "en",
+		"seriesId" : 9474833,
+		"episodeSeason" : 6,
+		"episodeNumber" : 7,
+		"episodeTitle" : "Harvest",
+		"genres" : [ "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP016169800087",
+	"date" : 1525910400000,
+	"time" : 14400000,
+	"tv" : {
+		"dur" : 3600000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 18000000,
+	"program" : {
+		"title" : "The Americans",
+		"progType" : "Series",
+		"origAirDate" : 1525219200000,
+		"origAudioLang" : "en",
+		"seriesId" : 9474833,
+		"episodeSeason" : 6,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Rififi",
+		"genres" : [ "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP016169800088",
+	"date" : 1525910400000,
+	"time" : 18000000,
+	"tv" : {
+		"dur" : 3600000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 21600000,
+	"program" : {
+		"title" : "The Americans",
+		"progType" : "Series",
+		"origAirDate" : 1525824000000,
+		"origAudioLang" : "en",
+		"seriesId" : 9474833,
+		"episodeSeason" : 6,
+		"episodeNumber" : 7,
+		"episodeTitle" : "Harvest",
+		"genres" : [ "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP017208580027",
+	"date" : 1525910400000,
+	"time" : 21600000,
+	"tv" : {
+		"dur" : 5400000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 27000000,
+	"program" : {
+		"title" : "Fargo",
+		"progType" : "Series",
+		"origAirDate" : 1494979200000,
+		"origAudioLang" : "en",
+		"seriesId" : 9897989,
+		"episodeSeason" : 3,
+		"episodeNumber" : 5,
+		"episodeTitle" : "The House of Special Purpose",
+		"genres" : [ "Crime drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP017208580028",
+	"date" : 1525910400000,
+	"time" : 27000000,
+	"tv" : {
+		"dur" : 3600000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 30600000,
+	"program" : {
+		"title" : "Fargo",
+		"progType" : "Series",
+		"origAirDate" : 1495584000000,
+		"origAudioLang" : "en",
+		"seriesId" : 9897989,
+		"episodeSeason" : 3,
+		"episodeNumber" : 6,
+		"episodeTitle" : "The Lord of No Mercy",
+		"genres" : [ "Crime drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH015078360000",
+	"date" : 1525910400000,
+	"time" : 30600000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "FXM Presents",
+		"progType" : "Series",
+		"origAirDate" : 1325376000000,
+		"seriesId" : 8978680,
+		"genres" : [ "Entertainment" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525910400000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525910400000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525910400000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525910400000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV003979160000",
+	"date" : 1525910400000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 46800000,
+	"program" : {
+		"title" : "Gravity",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Science fiction", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV003316360000",
+	"date" : 1525910400000,
+	"time" : 46800000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 54000000,
+	"program" : {
+		"title" : "The Tourist",
+		"progType" : "Feature Film",
+		"release" : "2010",
+		"origAudioLang" : "en",
+		"genres" : [ "Thriller", "Action", "Romance" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960115",
+	"date" : 1525910400000,
+	"time" : 54000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 55800000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1273449600000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 22,
+		"episodeTitle" : "Robots vs. Wrestlers",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960117",
+	"date" : 1525910400000,
+	"time" : 55800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 57600000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1274054400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 23,
+		"episodeTitle" : "The Wedding Bride",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960116",
+	"date" : 1525910400000,
+	"time" : 57600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 59400000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1274659200000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 5,
+		"episodeNumber" : 24,
+		"episodeTitle" : "Doppelgangers",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960118",
+	"date" : 1525910400000,
+	"time" : 59400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 61200000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1284940800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 1,
+		"episodeTitle" : "Big Days",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960119",
+	"date" : 1525910400000,
+	"time" : 61200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 63000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1285545600000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 2,
+		"episodeTitle" : "Cleaning House",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960120",
+	"date" : 1525910400000,
+	"time" : 63000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 64800000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1286150400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 3,
+		"episodeTitle" : "Unfinished",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400050",
+	"date" : 1525910400000,
+	"time" : 64800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 66600000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1349654400000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 3,
+		"episodeTitle" : "Mike Likes Cake",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400052",
+	"date" : 1525910400000,
+	"time" : 66600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 68400000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1350259200000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 4,
+		"episodeTitle" : "Molly in the Middle",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400053",
+	"date" : 1525910400000,
+	"time" : 68400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 70200000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1352073600000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 5,
+		"episodeTitle" : "Mike's Boss",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400054",
+	"date" : 1525910400000,
+	"time" : 70200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 72000000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1352678400000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Yard Sale",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004182350000",
+	"date" : 1525910400000,
+	"time" : 72000000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525910400000,
+	"stopTime" : 82800000,
+	"program" : {
+		"title" : "White House Down",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV007434040000",
+	"date" : 1525910400000,
+	"time" : 82800000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 7200000,
+	"program" : {
+		"title" : "Straight Outta Compton",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Biography", "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340022",
+	"date" : 1525996800000,
+	"time" : 7200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "Season Finale", "HDTV", "New" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 9000000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1525910400000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 2,
+		"episodeNumber" : 11,
+		"episodeTitle" : "Crabs in a Barrel",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340022",
+	"date" : 1525996800000,
+	"time" : 9000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 10800000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1525910400000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 2,
+		"episodeNumber" : 11,
+		"episodeTitle" : "Crabs in a Barrel",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340022",
+	"date" : 1525996800000,
+	"time" : 10800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 12600000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1525910400000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 2,
+		"episodeNumber" : 11,
+		"episodeTitle" : "Crabs in a Barrel",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV007434040000",
+	"date" : 1525996800000,
+	"time" : 12600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 23400000,
+	"program" : {
+		"title" : "Straight Outta Compton",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Biography", "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH015078360000",
+	"date" : 1525996800000,
+	"time" : 23400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 25200000,
+	"program" : {
+		"title" : "FXM Presents",
+		"progType" : "Series",
+		"origAirDate" : 1325376000000,
+		"seriesId" : 8978680,
+		"genres" : [ "Entertainment" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525996800000,
+	"time" : 25200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 27000000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525996800000,
+	"time" : 27000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 28800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525996800000,
+	"time" : 28800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 30600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525996800000,
+	"time" : 30600000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525996800000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525996800000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525996800000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1525996800000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV003316360000",
+	"date" : 1525996800000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 46800000,
+	"program" : {
+		"title" : "The Tourist",
+		"progType" : "Feature Film",
+		"release" : "2010",
+		"origAudioLang" : "en",
+		"genres" : [ "Thriller", "Action", "Romance" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006284690000",
+	"date" : 1525996800000,
+	"time" : 46800000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 55800000,
+	"program" : {
+		"title" : "The Gambler",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Crime drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960121",
+	"date" : 1525996800000,
+	"time" : 55800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 57600000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1286755200000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 4,
+		"episodeTitle" : "Subway Wars",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960122",
+	"date" : 1525996800000,
+	"time" : 57600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 59400000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1287360000000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 5,
+		"episodeTitle" : "Architect of Destruction",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960124",
+	"date" : 1525996800000,
+	"time" : 59400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 61200000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1287964800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Baby Talk",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960123",
+	"date" : 1525996800000,
+	"time" : 61200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 63000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1288569600000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 7,
+		"episodeTitle" : "Canning Randy",
+		"genres" : [ "Holiday", "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400056",
+	"date" : 1525996800000,
+	"time" : 63000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 64800000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1353283200000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 7,
+		"episodeTitle" : "Thanksgiving Is Canceled",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400055",
+	"date" : 1525996800000,
+	"time" : 64800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVPG",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 66600000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1353888000000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 8,
+		"episodeTitle" : "Mike Likes Briefs",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400057",
+	"date" : 1525996800000,
+	"time" : 66600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 68400000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1354492800000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 9,
+		"episodeTitle" : "Mike Takes a Test",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400058",
+	"date" : 1525996800000,
+	"time" : 68400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 70200000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1355702400000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 10,
+		"episodeTitle" : "Karaoke Christmas",
+		"genres" : [ "Holiday", "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004121610000",
+	"date" : 1525996800000,
+	"time" : 70200000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1525996800000,
+	"stopTime" : 79200000,
+	"program" : {
+		"title" : "Identity Thief",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006134340000",
+	"date" : 1525996800000,
+	"time" : 79200000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 3600000,
+	"program" : {
+		"title" : "Mission: Impossible Rogue Nation",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Adventure", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV005429810000",
+	"date" : 1526083200000,
+	"time" : 3600000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 10800000,
+	"program" : {
+		"title" : "Lucy",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Thriller", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP026691520007",
+	"date" : 1526083200000,
+	"time" : 10800000,
+	"tv" : {
+		"dur" : 3600000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 14400000,
+	"program" : {
+		"title" : "Trust",
+		"progType" : "Series",
+		"origAirDate" : 1525564800000,
+		"origAudioLang" : "en",
+		"seriesId" : 14040650,
+		"episodeSeason" : 1,
+		"episodeNumber" : 7,
+		"episodeTitle" : "Kodachrome",
+		"genres" : [ "Anthology", "Crime", "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV005429810000",
+	"date" : 1526083200000,
+	"time" : 14400000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 21600000,
+	"program" : {
+		"title" : "Lucy",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Thriller", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006134340000",
+	"date" : 1526083200000,
+	"time" : 21600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "Mission: Impossible Rogue Nation",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Action", "Adventure", "Thriller" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1526083200000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1526083200000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1526083200000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1526083200000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960125",
+	"date" : 1526083200000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 41400000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1289174400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 8,
+		"episodeTitle" : "Natural History",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960126",
+	"date" : 1526083200000,
+	"time" : 41400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 43200000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1289779200000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 9,
+		"episodeTitle" : "Glitter",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960127",
+	"date" : 1526083200000,
+	"time" : 43200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 45000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1290384000000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 10,
+		"episodeTitle" : "Blitzgiving",
+		"genres" : [ "Holiday", "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960128",
+	"date" : 1526083200000,
+	"time" : 45000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 46800000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1291593600000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 11,
+		"episodeTitle" : "The Mermaid Theory",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400059",
+	"date" : 1526083200000,
+	"time" : 46800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 48600000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1358121600000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 11,
+		"episodeTitle" : "Fish for Breakfast",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400060",
+	"date" : 1526083200000,
+	"time" : 48600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 50400000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1358726400000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 12,
+		"episodeTitle" : "Molly's Birthday",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400061",
+	"date" : 1526083200000,
+	"time" : 50400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 52200000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1359936000000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 13,
+		"episodeTitle" : "Carl Gets a Roommate",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP012800400062",
+	"date" : 1526083200000,
+	"time" : 52200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 54000000,
+	"program" : {
+		"title" : "Mike & Molly",
+		"progType" : "Series",
+		"origAirDate" : 1360540800000,
+		"origAudioLang" : "en",
+		"seriesId" : 8130329,
+		"episodeSeason" : 3,
+		"episodeNumber" : 14,
+		"episodeTitle" : "The Princess and the Troll",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004121610000",
+	"date" : 1526083200000,
+	"time" : 54000000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 63000000,
+	"program" : {
+		"title" : "Identity Thief",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV007050640000",
+	"date" : 1526083200000,
+	"time" : 63000000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 72000000,
+	"program" : {
+		"title" : "Spy",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004141460000",
+	"date" : 1526083200000,
+	"time" : 72000000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526083200000,
+	"stopTime" : 82800000,
+	"program" : {
+		"title" : "The Heat",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH029337200000",
+	"date" : 1526083200000,
+	"time" : 82800000,
+	"tv" : {
+		"dur" : 3600000
+	},
+	"quals" : [ "CC", "Stereo", "Live", "HDTV", "New" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 0,
+	"program" : {
+		"title" : "UFC Preliminaries: UFC on FX 224: Pre-Match",
+		"progType" : "Sports non-event",
+		"origAirDate" : 1526083200000,
+		"seriesId" : 15332922,
+		"genres" : [ "Special", "Mixed martial arts" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH029339280000",
+	"date" : 1526169600000,
+	"time" : 0,
+	"tv" : {
+		"dur" : 7200000
+	},
+	"quals" : [ "CC", "Stereo", "Live", "HDTV", "New" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 7200000,
+	"program" : {
+		"title" : "UFC 224: Nunes vs. Pennington - Preliminaries",
+		"progType" : "Sports event",
+		"origAirDate" : 1526083200000,
+		"seriesId" : 15336852,
+		"genres" : [ "Mixed martial arts" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV007793670000",
+	"date" : 1526169600000,
+	"time" : 7200000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 14400000,
+	"program" : {
+		"title" : "Ride Along 2",
+		"progType" : "Feature Film",
+		"release" : "2016",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP025730020014",
+	"date" : 1526169600000,
+	"time" : 14400000,
+	"tv" : {
+		"dur" : 3600000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 18000000,
+	"program" : {
+		"title" : "Legion",
+		"progType" : "Series",
+		"origAirDate" : 1525737600000,
+		"origAudioLang" : "en",
+		"seriesId" : 13578836,
+		"episodeSeason" : 2,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Chapter 14",
+		"genres" : [ "Adventure", "Science fiction" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP016169800088",
+	"date" : 1526169600000,
+	"time" : 18000000,
+	"tv" : {
+		"dur" : 3600000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 21600000,
+	"program" : {
+		"title" : "The Americans",
+		"progType" : "Series",
+		"origAirDate" : 1525824000000,
+		"origAudioLang" : "en",
+		"seriesId" : 9474833,
+		"episodeSeason" : 6,
+		"episodeNumber" : 7,
+		"episodeTitle" : "Harvest",
+		"genres" : [ "Drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340022",
+	"date" : 1526169600000,
+	"time" : 21600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 23400000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1525910400000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 2,
+		"episodeNumber" : 11,
+		"episodeTitle" : "Crabs in a Barrel",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340006",
+	"date" : 1526169600000,
+	"time" : 23400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 25200000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1474934400000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 1,
+		"episodeNumber" : 5,
+		"episodeTitle" : "Nobody Beats the Biebs",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP024673340007",
+	"date" : 1526169600000,
+	"time" : 25200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 27000000,
+	"program" : {
+		"title" : "Atlanta",
+		"progType" : "Series",
+		"origAirDate" : 1475539200000,
+		"origAudioLang" : "en",
+		"seriesId" : 13060983,
+		"episodeSeason" : 1,
+		"episodeNumber" : 6,
+		"episodeTitle" : "Value",
+		"genres" : [ "Comedy drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP017208580029",
+	"date" : 1526169600000,
+	"time" : 27000000,
+	"tv" : {
+		"dur" : 3600000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 30600000,
+	"program" : {
+		"title" : "Fargo",
+		"progType" : "Series",
+		"origAirDate" : 1496188800000,
+		"origAudioLang" : "en",
+		"seriesId" : 9897989,
+		"episodeSeason" : 3,
+		"episodeNumber" : 7,
+		"episodeTitle" : "The Law of Inevitability",
+		"genres" : [ "Crime drama" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH015078360000",
+	"date" : 1526169600000,
+	"time" : 30600000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 32400000,
+	"program" : {
+		"title" : "FXM Presents",
+		"progType" : "Series",
+		"origAirDate" : 1325376000000,
+		"seriesId" : 8978680,
+		"genres" : [ "Entertainment" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1526169600000,
+	"time" : 32400000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 34200000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1526169600000,
+	"time" : 34200000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 36000000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1526169600000,
+	"time" : 36000000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 37800000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "SH000000010000",
+	"date" : 1526169600000,
+	"time" : 37800000,
+	"tv" : {
+		"dur" : 1800000
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 39600000,
+	"program" : {
+		"title" : "Paid Programming",
+		"progType" : "Paid Programming",
+		"origAudioLang" : "en",
+		"seriesId" : 459763,
+		"genres" : [ "Shopping" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960129",
+	"date" : 1526169600000,
+	"time" : 39600000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 41400000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1292198400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 12,
+		"episodeTitle" : "False Positive",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960130",
+	"date" : 1526169600000,
+	"time" : 41400000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 43200000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1294012800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 13,
+		"episodeTitle" : "Bad News",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960131",
+	"date" : 1526169600000,
+	"time" : 43200000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 45000000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1295222400000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 14,
+		"episodeTitle" : "Last Words",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960132",
+	"date" : 1526169600000,
+	"time" : 45000000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 46800000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1297036800000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 15,
+		"episodeTitle" : "Oh Honey",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "EP007537960133",
+	"date" : 1526169600000,
+	"time" : 46800000,
+	"tv" : {
+		"dur" : 1800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 48600000,
+	"program" : {
+		"title" : "How I Met Your Mother",
+		"progType" : "Series",
+		"origAirDate" : 1297641600000,
+		"origAudioLang" : "en",
+		"seriesId" : 185124,
+		"episodeSeason" : 6,
+		"episodeNumber" : 16,
+		"episodeTitle" : "Desperation Day",
+		"genres" : [ "Sitcom" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV007050640000",
+	"date" : 1526169600000,
+	"time" : 48600000,
+	"tv" : {
+		"dur" : 9000000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Sex|Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 57600000,
+	"program" : {
+		"title" : "Spy",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004141460000",
+	"date" : 1526169600000,
+	"time" : 57600000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 68400000,
+	"program" : {
+		"title" : "The Heat",
+		"progType" : "Feature Film",
+		"release" : "2013",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV004974920000",
+	"date" : 1526169600000,
+	"time" : 68400000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TV14",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language|Dialog",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 75600000,
+	"program" : {
+		"title" : "Ride Along",
+		"progType" : "Feature Film",
+		"release" : "2014",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV007793670000",
+	"date" : 1526169600000,
+	"time" : 75600000,
+	"tv" : {
+		"dur" : 7200000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Violence|Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526169600000,
+	"stopTime" : 82800000,
+	"program" : {
+		"title" : "Ride Along 2",
+		"progType" : "Feature Film",
+		"release" : "2016",
+		"origAudioLang" : "en",
+		"genres" : [ "Comedy", "Action" ]
+	}
+},
+{
+	"prgSvcId" : 58574,
+	"tmsId" : "MV006118770000",
+	"date" : 1526169600000,
+	"time" : 82800000,
+	"tv" : {
+		"dur" : 10800000,
+		"tvRating" : {
+			"value" : "TVMA",
+			"body" : "USA Parental Rating"
+		},
+		"tvSubRating" : {
+			"value" : "Language",
+			"body" : "USA Parental Rating"
+		}
+	},
+	"quals" : [ "CC", "Stereo", "HDTV" ],
+	"stopDate" : 1526256000000,
+	"stopTime" : 7200000,
+	"program" : {
+		"title" : "The Martian",
+		"progType" : "Feature Film",
+		"release" : "2015",
+		"origAudioLang" : "en",
+		"genres" : [ "Science fiction", "Adventure", "Drama" ]
+	}
+}
+]

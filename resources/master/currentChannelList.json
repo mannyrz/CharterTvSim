@@ -1,0 +1,625 @@
+[ {
+  "vendor" : "ARRIS",
+  "ncsName" : "beIN SPORTS HD",
+  "ncsId" : 21,
+  "guideId" : 76950,
+  "callSign" : "BEIN1HD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "CNBC HD",
+  "ncsId" : 78,
+  "guideId" : 58780,
+  "callSign" : "CNBCHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "ESPN Deportes HD",
+  "ncsId" : 129,
+  "guideId" : 71914,
+  "callSign" : "ESPNDHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "FOX News Channel HD",
+  "ncsId" : 172,
+  "guideId" : 60179,
+  "callSign" : "FNCHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "FX HD",
+  "ncsId" : 178,
+  "guideId" : 58574,
+  "callSign" : "FXHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Great American Country HD",
+  "ncsId" : 216,
+  "guideId" : 82892,
+  "callSign" : "GACHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "MLB Network HD",
+  "ncsId" : 307,
+  "guideId" : 62081,
+  "callSign" : "MLBHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Nicktoo SD",
+  "ncsId" : 431,
+  "guideId" : 37551,
+  "callSign" : "NICKTOO"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "RT Russia Today SD",
+  "ncsId" : 485,
+  "guideId" : 58333,
+  "callSign" : "RTTV"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Showtime Family Zone SD",
+  "ncsId" : 503,
+  "guideId" : 25274,
+  "callSign" : "FAMZ"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TBS HD East",
+  "ncsId" : 548,
+  "guideId" : 58515,
+  "callSign" : "TBSHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "POP HD",
+  "ncsId" : 592,
+  "guideId" : 68796,
+  "callSign" : "POPHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "The Weather Channel HD",
+  "ncsId" : 600,
+  "guideId" : 58812,
+  "callSign" : "WEATHHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "UniMas SD",
+  "ncsId" : 607,
+  "guideId" : 29058,
+  "callSign" : "UNIMAS"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "MTV Classic SD East",
+  "ncsId" : 614,
+  "guideId" : 22561,
+  "callSign" : "MTVCLAS"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Showtime HD West",
+  "ncsId" : 769,
+  "guideId" : 22532,
+  "callSign" : "SHOWHDP"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Showtime Extreme HD West",
+  "ncsId" : 770,
+  "guideId" : 60945,
+  "callSign" : "SHWXPHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "NBCSN HD",
+  "ncsId" : 821,
+  "guideId" : 48639,
+  "callSign" : "NBCSNHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Revolt HD",
+  "ncsId" : 829,
+  "guideId" : 83098,
+  "callSign" : "RVLTHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Univision Deportes Network HD",
+  "ncsId" : 845,
+  "guideId" : 77033,
+  "callSign" : "UDNHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "ABC (KABC-DT) HD",
+  "ncsId" : 1161,
+  "guideId" : 19570,
+  "callSign" : "KABCDT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "CBS (KAUZ-DT) HD",
+  "ncsId" : 1211,
+  "guideId" : 33821,
+  "callSign" : "KAUZDT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "CBS (KCBS-DT) HD",
+  "ncsId" : 1212,
+  "guideId" : 19567,
+  "callSign" : "KCBSDT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "CW (KTLA-DT) HD",
+  "ncsId" : 1271,
+  "guideId" : 19515,
+  "callSign" : "KTLADT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "ION (KPXN) HD",
+  "ncsId" : 1326,
+  "guideId" : 49814,
+  "callSign" : "KPXNDT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "NBC (KNBC-DT) HD",
+  "ncsId" : 1338,
+  "guideId" : 19568,
+  "callSign" : "KNBCDT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "NBC (KXAN-DT) HD",
+  "ncsId" : 1346,
+  "guideId" : 25147,
+  "callSign" : "KXANDT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "PBS (KPBS-DT) HD",
+  "ncsId" : 1376,
+  "guideId" : 29024,
+  "callSign" : "KPBSDT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "PBS (KTWU) SD",
+  "ncsId" : 1378,
+  "guideId" : 10764,
+  "callSign" : "KTWU"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "PBS (KOCE-DT) HD",
+  "ncsId" : 1393,
+  "guideId" : 34544,
+  "callSign" : "KOCEDT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "PBS OC Channel (KOCE-DT2) HD",
+  "ncsId" : 1396,
+  "guideId" : 46525,
+  "callSign" : "KOCEDT2"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Azteca (KAZA-DT) HD",
+  "ncsId" : 1420,
+  "guideId" : 43286,
+  "callSign" : "KAZADT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Azteca (KZSD-LP) SD",
+  "ncsId" : 1423,
+  "guideId" : 35950,
+  "callSign" : "KZSDLP"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Evine 2 SD",
+  "ncsId" : 9649,
+  "guideId" : 97231,
+  "callSign" : "EVLV2"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "XCast MultiView HD",
+  "ncsId" : 17850,
+  "guideId" : 90587,
+  "callSign" : "SPCMV"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Oceanic XCast 1 HD",
+  "ncsId" : 17852,
+  "guideId" : 97844,
+  "callSign" : "SPCXC"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Disney XD HD West",
+  "ncsId" : 1709,
+  "guideId" : 63322,
+  "callSign" : "DXDHDP"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Fox Sports 2 HD",
+  "ncsId" : 1735,
+  "guideId" : 59305,
+  "callSign" : "FS2HD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Fox Sports West HD",
+  "ncsId" : 1740,
+  "guideId" : 59627,
+  "callSign" : "FSWHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "FXX HD West",
+  "ncsId" : 1743,
+  "guideId" : 82571,
+  "callSign" : "FXXPHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Estrella TV (KRCA-DT) HD",
+  "ncsId" : 1764,
+  "guideId" : 35352,
+  "callSign" : "KRCADT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "KSCI (LA18) SD",
+  "ncsId" : 1781,
+  "guideId" : 10684,
+  "callSign" : "KSCI"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "KSCI4 Christian Global Network TV (LA18-4) HD",
+  "ncsId" : 1782,
+  "guideId" : 65028,
+  "callSign" : "KSCIDT4"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "KWHY Super 22-2 HD",
+  "ncsId" : 1789,
+  "guideId" : 64575,
+  "callSign" : "KWHYDT2"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Spectrum Community HD",
+  "ncsId" : 10052,
+  "guideId" : 82659,
+  "callSign" : "SPCCOMM"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC Local Game 07 HD - Ohio 2",
+  "ncsId" : 10060,
+  "guideId" : 82593,
+  "callSign" : "SPCLG7"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC Local Game 08 HD - Ohio 3",
+  "ncsId" : 10061,
+  "guideId" : 82595,
+  "callSign" : "SPCLG8"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC Local Game 09 HD - Ohio 4",
+  "ncsId" : 10062,
+  "guideId" : 82596,
+  "callSign" : "SPCLG9"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Ovation TV HD",
+  "ncsId" : 1886,
+  "guideId" : 69061,
+  "callSign" : "OVATNHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "ESPN HD",
+  "ncsId" : 138,
+  "guideId" : 32645,
+  "callSign" : "ESPNHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "USA Network HD East",
+  "ncsId" : 702,
+  "guideId" : 58452,
+  "callSign" : "USAHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Smithsonian Network HD West",
+  "ncsId" : 1892,
+  "guideId" : 82695,
+  "callSign" : "SMITHPH"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Telemundo (KVEA-DT) HD",
+  "ncsId" : 1916,
+  "guideId" : 42678,
+  "callSign" : "KVEADT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "POP HD West",
+  "ncsId" : 1928,
+  "guideId" : 71954,
+  "callSign" : "POPHDP"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "MTV Classic SD West",
+  "ncsId" : 1971,
+  "guideId" : 59054,
+  "callSign" : "MTVCLAP"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TBS HD West",
+  "ncsId" : 2148,
+  "guideId" : 67890,
+  "callSign" : "TBSHDP"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Spectrum SportsNet LA HD",
+  "ncsId" : 2262,
+  "guideId" : 87024,
+  "callSign" : "SNLA"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "ESPN HD Oceanic",
+  "ncsId" : 18649,
+  "guideId" : 72658,
+  "callSign" : "OCESPNH"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Liquidation Channel HD",
+  "ncsId" : 2284,
+  "guideId" : 93564,
+  "callSign" : "SHOPLCH"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "SEC Overflow HD",
+  "ncsId" : 3221,
+  "guideId" : 89740,
+  "callSign" : "SECAHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "WGN America HD West",
+  "ncsId" : 11449,
+  "guideId" : 97524,
+  "callSign" : "WGNAPHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Fox Sports Plus SD TW Austin - Sneak-Sports",
+  "ncsId" : 11453,
+  "guideId" : 24070,
+  "callSign" : "SPCMT77"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Myx TV SD",
+  "ncsId" : 3281,
+  "guideId" : 55451,
+  "callSign" : "MYX"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC Local Game 01 HD - New York State",
+  "ncsId" : 4441,
+  "guideId" : 82587,
+  "callSign" : "SPCLG1"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC Local Game 06 HD - The Ohio State",
+  "ncsId" : 4442,
+  "guideId" : 82592,
+  "callSign" : "SPCLG6"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC Local Game 10 HD - Wisconsin",
+  "ncsId" : 4443,
+  "guideId" : 82597,
+  "callSign" : "SPCLG10"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC Local Game 11 HD - Wisconsin",
+  "ncsId" : 4444,
+  "guideId" : 82598,
+  "callSign" : "SPCLG11"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC Local Game 12 HD - Kansas City",
+  "ncsId" : 4445,
+  "guideId" : 82599,
+  "callSign" : "SPCLG12"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Spectrum Local Game 15",
+  "ncsId" : 4446,
+  "guideId" : 82606,
+  "callSign" : "SPCLG15"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC Local Game 02 HD - New York State",
+  "ncsId" : 4447,
+  "guideId" : 82588,
+  "callSign" : "SPCLG2"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC Local Game 03 HD - New York State",
+  "ncsId" : 4448,
+  "guideId" : 82589,
+  "callSign" : "SPCLG3"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC Local Game 04 HD - New York State",
+  "ncsId" : 4449,
+  "guideId" : 82590,
+  "callSign" : "SPCLG4"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC Local Game 05 HD - New York State",
+  "ncsId" : 4450,
+  "guideId" : 82591,
+  "callSign" : "SPCLG5"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "UniMas HD East [National Sat Feed]",
+  "ncsId" : 4615,
+  "guideId" : 33669,
+  "callSign" : "UNIMSAT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Fox Sports Plus SD TXWFTV Wichita Falls SD",
+  "ncsId" : 4617,
+  "guideId" : 16578,
+  "callSign" : "TXWFTV"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "CW (WGN) SD",
+  "ncsId" : 4866,
+  "guideId" : 11474,
+  "callSign" : "WGN"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Univision HD",
+  "ncsId" : 5001,
+  "guideId" : 68049,
+  "callSign" : "UNIHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "PBS (KLCS) SD",
+  "ncsId" : 5072,
+  "guideId" : 10538,
+  "callSign" : "KLCS"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Trinity Broadcast Network (KTBN) SD",
+  "ncsId" : 5076,
+  "guideId" : 10710,
+  "callSign" : "KTBN"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "ABC (KABCLO1) SD Syndex",
+  "ncsId" : 5095,
+  "guideId" : 44555,
+  "callSign" : "KABCLO1"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "FUSE SD West",
+  "ncsId" : 5103,
+  "guideId" : 61483,
+  "callSign" : "FUSEP"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "IFC SD West",
+  "ncsId" : 5104,
+  "guideId" : 61866,
+  "callSign" : "IFCP"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "National Geographic Channel HD West",
+  "ncsId" : 5107,
+  "guideId" : 71601,
+  "callSign" : "NGCPHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "NBC (WICU-DT) HD",
+  "ncsId" : 5275,
+  "guideId" : 30972,
+  "callSign" : "WICUDT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "FOX (WFXP-DT) HD",
+  "ncsId" : 5327,
+  "guideId" : 34856,
+  "callSign" : "WFXPDT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "CBS (WSEE-DT) HD",
+  "ncsId" : 5424,
+  "guideId" : 58874,
+  "callSign" : "WSEEDT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "MTV Oceanic SD",
+  "ncsId" : 5475,
+  "guideId" : 37219,
+  "callSign" : "OCEAMTV"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "USA Network Oceanic HD",
+  "ncsId" : 5479,
+  "guideId" : 10261,
+  "callSign" : "HIUSAP"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "TWC WMTW News 8 (WMTW) SD",
+  "ncsId" : 5483,
+  "guideId" : 34084,
+  "callSign" : "SPNEWS8"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "NBC (KNBCLO1) SD Syndex",
+  "ncsId" : 5512,
+  "guideId" : 44557,
+  "callSign" : "KNBCLO1"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "UP Oceanic SD",
+  "ncsId" : 5521,
+  "guideId" : 77761,
+  "callSign" : "OCUP"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Unimas HD West [National Sat Feed]",
+  "ncsId" : 5593,
+  "guideId" : 29059,
+  "callSign" : "UNIMASP"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "RT in Spanish SD",
+  "ncsId" : 5661,
+  "guideId" : 69367,
+  "callSign" : "RTSPAN"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Crossings TV - New York - New Jersey SD",
+  "ncsId" : 5667,
+  "guideId" : 62244,
+  "callSign" : "CROSSTV"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "E! Entertainment Television HD West",
+  "ncsId" : 5850,
+  "guideId" : 91579,
+  "callSign" : "EPHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Viceland HD West",
+  "ncsId" : 6052,
+  "guideId" : 92375,
+  "callSign" : "VICEPHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "FYI HD West",
+  "ncsId" : 6054,
+  "guideId" : 92372,
+  "callSign" : "FYIPHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Lifetime Movie Network HD West",
+  "ncsId" : 6056,
+  "guideId" : 92373,
+  "callSign" : "LMVPHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "CW (KWGN-DT) HD",
+  "ncsId" : 15054,
+  "guideId" : 20370,
+  "callSign" : "KWGNDT"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "Spectrum Local Game 18",
+  "ncsId" : 7451,
+  "guideId" : 82609,
+  "callSign" : "SPCLG18"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "truTV HD West",
+  "ncsId" : 7849,
+  "guideId" : 65717,
+  "callSign" : "TRUTVHP"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "string",
+  "ncsId" : 0,
+  "guideId" : 45507,
+  "callSign" : "ESPN2HD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "BBC America HD East",
+  "ncsId" : 15,
+  "guideId" : 64492,
+  "callSign" : "BBCAHD"
+}, {
+  "vendor" : "ARRIS",
+  "ncsName" : "BBC America HD East",
+  "ncsId" : 15,
+  "guideId" : 96855,
+  "callSign" : "ELREYPH"
+} ]
