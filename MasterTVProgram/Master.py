@@ -1,5 +1,5 @@
 class Master:
 	pass
 
-	def getCurrentTime():
+	def getCurrentTime(self):
 		pass
