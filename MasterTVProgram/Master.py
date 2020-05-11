@@ -1,11 +1,11 @@
 import os
 import json
 
-class Master:
+class Charter:
 	
-	def __init__(self, userName, channelList=None):
+	def __init__(self, userName, channelNumbers=[]):
 		self.userName = userName
-		self.channeList = channelList
+		self.channeNumbers = channelNumbers
 
 	def getCurrentTime(self):
 		pass
@@ -19,5 +19,10 @@ class Master:
 
 print("Testing")
 
-ts = Master.CurrentSchedule('Test', 'currentSchedule.json')
-print(ts)
+userName = "JC"
+channelNumbers= [58574]
+
+ts = Charter(userName, channelNumbers)
+UserFilterSchedule = ts.CurrentSchedule('currentSchedule.json')
+
+print(UserFilterSchedule)
