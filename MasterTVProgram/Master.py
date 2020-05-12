@@ -28,7 +28,17 @@ if __name__ == "__main__":
 	ts = Charter(userName, channelNumbers)
 	masterSchedule = ts.getMasterSchedule('currentSchedule.json')
 
+    # Instantiate User Class
 	user =  UserSchedule.Users()
-	master_recorde_cnt =  user.RecordCnt(masterSchedule, 53, 1)
+	#master_recorde_cnt =  user.RecordCnt(masterSchedule, 53, 1)
+	#print(master_recorde_cnt)
 
-	print(master_recorde_cnt)
+	#userSchedule = user.GetUserSchedule(userName, masterSchedule, 53, 1)
+	#print(userSchedule)
+
+	#WriteUserSchedule = user.WriteUserSchedule(userName, userSchedule, 53, 1)
+	#print("Write Success: " + WriteUserSchedule)
+
+	ReadUserSchedule = user.ReadUserSchedule(userName, 1, 1)
+	print(ReadUserSchedule)
+	#
